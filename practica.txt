@@ -1,0 +1,4 @@
+GitHub puede servir en proyectos colaborativos para que varias personas 
+puedan trabajar al mismo tiempo en un código, guardando el historial de 
+cambios y asi poder revisar el trabajo que los otros estan realizando sin 
+verse afectados  
